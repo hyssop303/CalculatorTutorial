@@ -11,3 +11,5 @@ Next I'll put tutorial's calculator code in a different branch on github, that p
 
 These directions are slightly different I found morning 11/4/2020, may include more on installer so I'll recheck.
 https://docs.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-160
+
+Troubleshooting, prereq says Have Visual Studio with the Desktop development with C++ workload installed and running on your computer. If it's not installed yet, see Install C++ support in Visual Studio. Prerequisite Desktop development with C++ should contain a link to show what it looks like.  I clicked on your 'see Install C++ support in Visual Studio link, and the only 'desktop'  it shows is .net desktop development.  .net desktop development was not available in my install, and I have the screenshot to prove it of what I selected in the installer, but it seems to be running fine. But now I see a scroll down that I probably didn't do, of probably a bunch more workloads, so I'll try installing again, to look for desktop workload.
