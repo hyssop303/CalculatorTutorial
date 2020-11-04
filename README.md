@@ -8,3 +8,6 @@ but when I pasted the tutorial's calculator code into my VS 2019 hello world cod
 So to troubleshoot simple tutorial, without following directions, from VS2019 Team Explorer, I signed into github.
 I'm trying saving generic working hello world to github, then sync seemed to put some code in github.
 Next I'll put tutorial's calculator code in a different branch on github, that produces compile errors on my computer on VS2019.
+
+These directions are slightly different I found morning 11/4/2020, may include more on installer so I'll recheck.
+https://docs.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-160
